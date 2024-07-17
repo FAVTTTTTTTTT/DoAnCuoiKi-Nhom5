@@ -33,7 +33,7 @@ export default function App() {
           <Tab.Screen name="Screen03" component={Screen03} 
            options = {{
             headerStyle: { backgroundColor: '#fff' },
-            title: 'Chọn người thụ hưởng',
+            title: 'Select beneficiary',
             headerTitleAlign: 'center',
             headerTitleStyle: {
               fontSize: 20,
@@ -60,7 +60,7 @@ export default function App() {
           }}/>
           <Tab.Screen name="Screen04" component={Screen04}  options = {{
             headerStyle: { backgroundColor: '#fff' },
-            title: 'Thong tin giao dịch',
+            title: 'Introduce Trade',
             headerTitleAlign: 'center',
             headerTitleStyle: {
               fontSize: 20,
@@ -77,7 +77,7 @@ export default function App() {
           <Tab.Screen name="Screen05" component={Screen05} 
            options = {{
             headerStyle: { backgroundColor: '#fff' },
-            title: 'Xác nhận giao dịch',
+            title: 'Accept trade ',
             headerTitleAlign: 'center',
             headerTitleStyle: {
               fontSize: 20,
@@ -96,7 +96,7 @@ export default function App() {
           <Tab.Screen name="Screen08" component={Screen08}
            options = {{
             headerStyle: { backgroundColor: '#fff' },
-            title: 'Đổi mật khẩu',
+            title: 'change password',
             headerTitleAlign: 'center',
             headerTitleStyle: {
               fontSize: 20,
