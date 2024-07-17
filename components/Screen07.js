@@ -161,17 +161,6 @@ const styles = StyleSheet.create({
         alignContent: 'center',
         paddingRight: 15
     },
-    oneButton: {
-        display: 'flex',
-        flexDirection: 'column',
-        justifyContent: 'center',
-        alignContent: 'center',
-    },
-    closeButton: {
-        backgroundColor: 'blue',
-        padding: 10,
-        margin: 20,
-        borderRadius: 5,
-    },
+    
 
 })
